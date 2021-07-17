@@ -2,4 +2,4 @@
 
 ### with ...
 
-AWS - Bucket && REACT JS && Spring BOOT
+AWS - Bucket && REACT JS - Frontend + drag and drop && Spring BOOT
