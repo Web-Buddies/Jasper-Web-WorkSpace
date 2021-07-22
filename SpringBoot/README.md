@@ -28,6 +28,10 @@ Thymeleaf Template Engine에 대해서 좀 더 공부를 해보자.
 
 %%% spring-boot-devtools 라이브러리를 추가 하면, html 파일을 컴파일만 해주면 서버 재시작 없이 View 파일 변경 가능, inIntelliJ -> Menu build -> Recompile
 
+#### test Case
+
+Using Junit Framework // 자바의 main 메서드를 통해서 실행하거나, 웹 애플리케이션의 컨트롤러를 통해서 해당 기능을 실행한다, 이러한 방법은 준비하고 실행하는데 오래 걸리고, 반복 실행이 어렵고, 여러 테스트를 한번에 실행하기 어렵다는 단점이 있기 떄문에.
+
 #### Annotation
 
 > @Controller -> 웹서버의 통신시에 가장 먼저 진입하는 진입점
